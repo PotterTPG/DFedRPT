@@ -1,0 +1,1163 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="43988863-bfd8-4d9e-b889-c8b75ac8b786" name="Changes" comment="first commit">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "PotterTPG"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/PotterTPG/DFedRPT.git",
+    "accountId": "5cfd2a62-8a91-4c8f-a3fd-7d2868c00b2d"
+  }
+}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 0
+}</component>
+  <component name="ProjectId" id="2p0sotmjrbVUQjdvre8VKUu9ZGt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "Python tests.Python tests in test_logging.py.executor": "Run",
+    "Python.clientproxy.executor": "Run",
+    "Python.data_utils.executor": "Run",
+    "Python.generate_Cifar10.executor": "Run",
+    "Python.generate_ISIC.executor": "Run",
+    "Python.generate_cifar100.executor": "Run",
+    "Python.generate_cifar10N.executor": "Run",
+    "Python.generate_fmnist.executor": "Run",
+    "Python.generate_har.executor": "Run",
+    "Python.lsr.executor": "Debug",
+    "Python.main.executor": "Run",
+    "Python.plot.executor": "Run",
+    "Python.sim.executor": "Run",
+    "Python.test.executor": "Debug",
+    "Python.test_logging.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "SHELLCHECK.PATH": "/Users/potter/Library/Application Support/JetBrains/PyCharm2025.1/plugins/Shell Script/shellcheck",
+    "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/potter/PycharmProjects/DFedRPT",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="PyConsoleOptionsProvider">
+    <option name="myPythonConsoleState">
+      <console-settings module-name="FedPRONo" is-module-sdk="true">
+        <option name="myUseModuleSdk" value="true" />
+        <option name="myModuleName" value="FedPRONo" />
+      </console-settings>
+    </option>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/data" />
+      <recent name="$PROJECT_DIR$/data/utils" />
+      <recent name="$PROJECT_DIR$/core/flimplement/model" />
+      <recent name="$PROJECT_DIR$/core/flimplement/middleware" />
+      <recent name="$PROJECT_DIR$/core/flimplement/clients" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+      <recent name="$PROJECT_DIR$/core/utils" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="generate_Cifar10" type="PythonConfigurationType" factoryName="Python" singleton="false">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_cifar10.py" />
+      <option name="PARAMETERS" value="noniid - dir" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_ISIC" type="PythonConfigurationType" factoryName="Python">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_ISIC.py" />
+      <option name="PARAMETERS" value="iid balance -" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_cifar100" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_cifar100.py" />
+      <option name="PARAMETERS" value="iid balance -" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_cifar10N" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_cifar10N.py" />
+      <option name="PARAMETERS" value="iid balance -" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_fmnist" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_fmnist.py" />
+      <option name="PARAMETERS" value="noniid - dir" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="generate_har" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/generate_har.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="lsr" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/lsr.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" singleton="false" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="sim" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/sim.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_logging" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="DFedRPT" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test_logging.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.generate_Cifar10" />
+      <item itemvalue="Python.generate_ISIC" />
+      <item itemvalue="Python.generate_cifar100" />
+      <item itemvalue="Python.generate_cifar10N" />
+      <item itemvalue="Python.generate_fmnist" />
+      <item itemvalue="Python.generate_har" />
+      <item itemvalue="Python.lsr" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.test_logging" />
+      <item itemvalue="Python.sim" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.sim" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.130" />
+        <option value="bundled-python-sdk-1bde30d8e611-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.130" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
+    <option name="myConnectionType" value="NONE" />
+    <option name="myConnectionId" value="" />
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>$USER_HOME$/.subversion</configuration>
+    <option name="sshConnectionType" value="PASSWORD" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="43988863-bfd8-4d9e-b889-c8b75ac8b786" name="Changes" comment="" />
+      <created>1731914505183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1731914505183</updated>
+      <workItem from="1731914506219" duration="5814000" />
+      <workItem from="1731920362549" duration="12733000" />
+      <workItem from="1731996985592" duration="12702000" />
+      <workItem from="1732019696026" duration="4459000" />
+      <workItem from="1732025955408" duration="85000" />
+      <workItem from="1732026234971" duration="17962000" />
+      <workItem from="1732108796169" duration="1190000" />
+      <workItem from="1732109996686" duration="5163000" />
+      <workItem from="1732165585972" duration="7467000" />
+      <workItem from="1732243789825" duration="5229000" />
+      <workItem from="1732327636089" duration="3615000" />
+      <workItem from="1732346756102" duration="13261000" />
+      <workItem from="1732427652836" duration="6878000" />
+      <workItem from="1732452745011" duration="8000" />
+      <workItem from="1732452895139" duration="6516000" />
+      <workItem from="1732499343667" duration="17243000" />
+      <workItem from="1732607626664" duration="2726000" />
+      <workItem from="1732612268094" duration="6917000" />
+      <workItem from="1732697284403" duration="1285000" />
+      <workItem from="1732706029716" duration="25319000" />
+      <workItem from="1732846661678" duration="12745000" />
+      <workItem from="1732949034860" duration="11218000" />
+      <workItem from="1733119902818" duration="657000" />
+      <workItem from="1733126870006" duration="17220000" />
+      <workItem from="1733452236909" duration="3827000" />
+      <workItem from="1733464454632" duration="8030000" />
+      <workItem from="1733623659700" duration="12905000" />
+      <workItem from="1733726305612" duration="13742000" />
+      <workItem from="1733745124865" duration="2654000" />
+      <workItem from="1733812192420" duration="2977000" />
+      <workItem from="1733816006267" duration="7214000" />
+      <workItem from="1733881708426" duration="5877000" />
+      <workItem from="1733903601523" duration="873000" />
+      <workItem from="1733971692101" duration="3399000" />
+      <workItem from="1733986896459" duration="1222000" />
+      <workItem from="1734051028856" duration="5872000" />
+      <workItem from="1734072891100" duration="10075000" />
+      <workItem from="1734245535111" duration="2639000" />
+      <workItem from="1734263553434" duration="642000" />
+      <workItem from="1734310725584" duration="6636000" />
+      <workItem from="1734317816227" duration="5255000" />
+      <workItem from="1734420590090" duration="1429000" />
+      <workItem from="1734487090945" duration="6273000" />
+      <workItem from="1734525270539" duration="618000" />
+      <workItem from="1734590647539" duration="2297000" />
+      <workItem from="1734659482488" duration="14887000" />
+      <workItem from="1734698926938" duration="27572000" />
+      <workItem from="1735047880124" duration="4194000" />
+      <workItem from="1735094406905" duration="1728000" />
+      <workItem from="1735179062644" duration="2529000" />
+      <workItem from="1735205338075" duration="40187000" />
+      <workItem from="1735782105979" duration="7193000" />
+      <workItem from="1735874886837" duration="2399000" />
+      <workItem from="1736074374787" duration="343000" />
+      <workItem from="1736125644702" duration="9795000" />
+      <workItem from="1736147350099" duration="2138000" />
+      <workItem from="1736149935349" duration="22332000" />
+      <workItem from="1736235382423" duration="325000" />
+      <workItem from="1736235753293" duration="6560000" />
+      <workItem from="1736247078832" duration="15938000" />
+      <workItem from="1736324929873" duration="22438000" />
+      <workItem from="1736411114920" duration="755000" />
+      <workItem from="1736474937918" duration="4942000" />
+      <workItem from="1736604557820" duration="9650000" />
+      <workItem from="1736685939668" duration="62000" />
+      <workItem from="1736692605244" duration="1801000" />
+      <workItem from="1736699675179" duration="87000" />
+      <workItem from="1736727546169" duration="56000" />
+      <workItem from="1736739444701" duration="19618000" />
+      <workItem from="1736838578644" duration="818000" />
+      <workItem from="1736912652026" duration="2845000" />
+      <workItem from="1736944658899" duration="609000" />
+      <workItem from="1736991792843" duration="22886000" />
+      <workItem from="1737076776972" duration="1612000" />
+      <workItem from="1737080084108" duration="6214000" />
+      <workItem from="1737099968453" duration="26890000" />
+      <workItem from="1737209615060" duration="2184000" />
+      <workItem from="1737338939947" duration="5383000" />
+      <workItem from="1737380134229" duration="27104000" />
+      <workItem from="1737463141167" duration="32000" />
+      <workItem from="1737516147593" duration="8161000" />
+      <workItem from="1737554926628" duration="2096000" />
+      <workItem from="1737687209635" duration="3195000" />
+      <workItem from="1737877628414" duration="5079000" />
+      <workItem from="1737905850493" duration="138000" />
+      <workItem from="1737906034454" duration="399000" />
+      <workItem from="1738292953298" duration="597000" />
+      <workItem from="1738330963385" duration="7000" />
+      <workItem from="1739252009168" duration="22554000" />
+      <workItem from="1739419878927" duration="5700000" />
+      <workItem from="1739520209636" duration="1734000" />
+      <workItem from="1739598396243" duration="2629000" />
+      <workItem from="1739604196193" duration="4509000" />
+      <workItem from="1739683329436" duration="4604000" />
+      <workItem from="1739688774073" duration="309000" />
+      <workItem from="1739777880340" duration="18634000" />
+      <workItem from="1739843346660" duration="22912000" />
+      <workItem from="1739885846206" duration="116000" />
+      <workItem from="1739947278002" duration="1640000" />
+      <workItem from="1739949086707" duration="597000" />
+      <workItem from="1739962235760" duration="2253000" />
+      <workItem from="1739971655463" duration="1642000" />
+      <workItem from="1740016602342" duration="3424000" />
+      <workItem from="1740020915761" duration="547000" />
+      <workItem from="1740022516450" duration="43000" />
+      <workItem from="1740035406588" duration="6168000" />
+      <workItem from="1740049037728" duration="8573000" />
+      <workItem from="1740059578230" duration="832000" />
+      <workItem from="1740060456712" duration="669000" />
+      <workItem from="1740113866450" duration="7198000" />
+      <workItem from="1740125406075" duration="14113000" />
+      <workItem from="1740192826371" duration="7427000" />
+      <workItem from="1740210250155" duration="952000" />
+      <workItem from="1740212193624" duration="36000" />
+      <workItem from="1740212236014" duration="7767000" />
+      <workItem from="1740290965349" duration="26148000" />
+      <workItem from="1740409632734" duration="5000" />
+      <workItem from="1740447461008" duration="5376000" />
+      <workItem from="1740488414376" duration="305000" />
+      <workItem from="1740499066875" duration="580000" />
+      <workItem from="1740534055110" duration="959000" />
+      <workItem from="1740536335932" duration="617000" />
+      <workItem from="1740538251512" duration="2340000" />
+      <workItem from="1740571354367" duration="734000" />
+      <workItem from="1740638269892" duration="1333000" />
+      <workItem from="1740654280543" duration="3929000" />
+      <workItem from="1740661492783" duration="23086000" />
+      <workItem from="1740799640446" duration="959000" />
+      <workItem from="1740800683351" duration="1474000" />
+      <workItem from="1740803042034" duration="4556000" />
+      <workItem from="1740878825036" duration="6975000" />
+      <workItem from="1740966831648" duration="661000" />
+      <workItem from="1740971891184" duration="6833000" />
+      <workItem from="1740992536903" duration="2041000" />
+      <workItem from="1741009982954" duration="3539000" />
+      <workItem from="1741076971989" duration="4131000" />
+      <workItem from="1741092532040" duration="39000" />
+      <workItem from="1741094046990" duration="598000" />
+      <workItem from="1741103806368" duration="39000" />
+      <workItem from="1741138332507" duration="4942000" />
+      <workItem from="1741177637864" duration="387000" />
+      <workItem from="1741183565227" duration="2351000" />
+      <workItem from="1741234891721" duration="3784000" />
+      <workItem from="1741268437474" duration="3103000" />
+      <workItem from="1741274638158" duration="6000" />
+      <workItem from="1741311910381" duration="4970000" />
+      <workItem from="1741332537264" duration="7821000" />
+      <workItem from="1741358239812" duration="6424000" />
+      <workItem from="1741436065290" duration="3139000" />
+      <workItem from="1741445679045" duration="1318000" />
+      <workItem from="1741494182947" duration="4050000" />
+      <workItem from="1741523435032" duration="9404000" />
+      <workItem from="1741592778450" duration="3206000" />
+      <workItem from="1741661496624" duration="1391000" />
+      <workItem from="1741681262044" duration="133000" />
+      <workItem from="1741693570581" duration="1367000" />
+      <workItem from="1741722339813" duration="643000" />
+      <workItem from="1741729412026" duration="138000" />
+      <workItem from="1741767813837" duration="1970000" />
+      <workItem from="1741779996567" duration="399000" />
+      <workItem from="1741932533154" duration="4097000" />
+      <workItem from="1742046245450" duration="1285000" />
+      <workItem from="1742182276084" duration="5227000" />
+      <workItem from="1742217511046" duration="1556000" />
+      <workItem from="1742224203139" duration="922000" />
+      <workItem from="1742225206448" duration="10000" />
+      <workItem from="1742363372877" duration="77000" />
+      <workItem from="1743558746796" duration="1156000" />
+      <workItem from="1743562822026" duration="1198000" />
+      <workItem from="1744252038866" duration="1184000" />
+      <workItem from="1744335230158" duration="786000" />
+      <workItem from="1748497029593" duration="666000" />
+      <workItem from="1749003725020" duration="19000" />
+      <workItem from="1749019244602" duration="26000" />
+      <workItem from="1749132599862" duration="1505000" />
+      <workItem from="1749201048067" duration="7777000" />
+      <workItem from="1749297797378" duration="628000" />
+      <workItem from="1749366086630" duration="3106000" />
+      <workItem from="1749432879122" duration="1024000" />
+      <workItem from="1749723537330" duration="15307000" />
+      <workItem from="1749905272951" duration="40655000" />
+      <workItem from="1750469373820" duration="5873000" />
+      <workItem from="1750488343648" duration="11147000" />
+      <workItem from="1750581645792" duration="16000" />
+      <workItem from="1750595763608" duration="134000" />
+      <workItem from="1750595902656" duration="15858000" />
+      <workItem from="1750673953245" duration="3924000" />
+      <workItem from="1750730053846" duration="16841000" />
+      <workItem from="1750816140343" duration="419000" />
+      <workItem from="1750836431406" duration="14726000" />
+      <workItem from="1750989024865" duration="4885000" />
+      <workItem from="1751008630475" duration="3000" />
+      <workItem from="1751351944383" duration="7226000" />
+      <workItem from="1751371355938" duration="9528000" />
+      <workItem from="1751542715078" duration="1398000" />
+      <workItem from="1751552144858" duration="1214000" />
+      <workItem from="1751611062035" duration="696000" />
+      <workItem from="1751770296908" duration="4229000" />
+      <workItem from="1751788975725" duration="4205000" />
+      <workItem from="1751869510411" duration="634000" />
+      <workItem from="1751879834857" duration="26000" />
+      <workItem from="1751941282368" duration="613000" />
+      <workItem from="1752025901102" duration="438000" />
+      <workItem from="1752068368049" duration="6135000" />
+      <workItem from="1752288172929" duration="3393000" />
+      <workItem from="1752380909171" duration="52000" />
+      <workItem from="1752385079487" duration="2609000" />
+      <workItem from="1752459799659" duration="5629000" />
+      <workItem from="1752484745370" duration="1219000" />
+      <workItem from="1752487744250" duration="301000" />
+      <workItem from="1752488189540" duration="220000" />
+      <workItem from="1752550279308" duration="729000" />
+      <workItem from="1752558285768" duration="19000" />
+      <workItem from="1752559233417" duration="2000" />
+      <workItem from="1752587352788" duration="3983000" />
+      <workItem from="1752648588661" duration="2009000" />
+      <workItem from="1752650813189" duration="2000" />
+      <workItem from="1752659684194" duration="2413000" />
+      <workItem from="1752676597435" duration="32000" />
+      <workItem from="1752676654837" duration="223000" />
+      <workItem from="1752722321764" duration="2335000" />
+      <workItem from="1752765361549" duration="2286000" />
+      <workItem from="1752802038996" duration="249000" />
+      <workItem from="1752900121311" duration="630000" />
+      <workItem from="1752932252875" duration="11000" />
+      <workItem from="1752932999627" duration="2985000" />
+      <workItem from="1752986757612" duration="855000" />
+      <workItem from="1752994515093" duration="6000" />
+      <workItem from="1753670278453" duration="2983000" />
+      <workItem from="1754835955744" duration="1000" />
+      <workItem from="1754893881628" duration="454000" />
+      <workItem from="1755830129509" duration="9408000" />
+      <workItem from="1756046185394" duration="3801000" />
+      <workItem from="1756280520240" duration="288000" />
+      <workItem from="1756298339129" duration="2062000" />
+      <workItem from="1756363263689" duration="32000" />
+      <workItem from="1756716576245" duration="297000" />
+      <workItem from="1756716968491" duration="108000" />
+      <workItem from="1756717083386" duration="3639000" />
+    </task>
+    <task id="LOCAL-00049" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737437016638</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1737437016638</updated>
+    </task>
+    <task id="LOCAL-00050" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737527253234</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1737527253234</updated>
+    </task>
+    <task id="LOCAL-00051" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737527579041</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1737527579041</updated>
+    </task>
+    <task id="LOCAL-00052" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737557083844</created>
+      <option name="number" value="00052" />
+      <option name="presentableId" value="LOCAL-00052" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557083844</updated>
+    </task>
+    <task id="LOCAL-00053" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737557287894</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1737557287894</updated>
+    </task>
+    <task id="LOCAL-00054" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737687764203</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1737687764204</updated>
+    </task>
+    <task id="LOCAL-00055" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737775520945</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1737775520945</updated>
+    </task>
+    <task id="LOCAL-00056" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1737884406138</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1737884406139</updated>
+    </task>
+    <task id="LOCAL-00057" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739264343010</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1739264343011</updated>
+    </task>
+    <task id="LOCAL-00058" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739449549166</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1739449549166</updated>
+    </task>
+    <task id="LOCAL-00059" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739522608288</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1739522608288</updated>
+    </task>
+    <task id="LOCAL-00060" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739778607281</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1739778607281</updated>
+    </task>
+    <task id="LOCAL-00061" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739793309381</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1739793309381</updated>
+    </task>
+    <task id="LOCAL-00062" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739794003473</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1739794003473</updated>
+    </task>
+    <task id="LOCAL-00063" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739798790655</created>
+      <option name="number" value="00063" />
+      <option name="presentableId" value="LOCAL-00063" />
+      <option name="project" value="LOCAL" />
+      <updated>1739798790655</updated>
+    </task>
+    <task id="LOCAL-00064" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739800484578</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1739800484578</updated>
+    </task>
+    <task id="LOCAL-00065" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739846654512</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1739846654512</updated>
+    </task>
+    <task id="LOCAL-00066" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739868727734</created>
+      <option name="number" value="00066" />
+      <option name="presentableId" value="LOCAL-00066" />
+      <option name="project" value="LOCAL" />
+      <updated>1739868727734</updated>
+    </task>
+    <task id="LOCAL-00067" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739869087187</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1739869087187</updated>
+    </task>
+    <task id="LOCAL-00068" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739884606975</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1739884606975</updated>
+    </task>
+    <task id="LOCAL-00069" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739947875321</created>
+      <option name="number" value="00069" />
+      <option name="presentableId" value="LOCAL-00069" />
+      <option name="project" value="LOCAL" />
+      <updated>1739947875321</updated>
+    </task>
+    <task id="LOCAL-00070" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1739963818831</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1739963818831</updated>
+    </task>
+    <task id="LOCAL-00071" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740050271007</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1740050271008</updated>
+    </task>
+    <task id="LOCAL-00072" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740050650838</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1740050650838</updated>
+    </task>
+    <task id="LOCAL-00073" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740060370051</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1740060370051</updated>
+    </task>
+    <task id="LOCAL-00074" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740150563755</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1740150563755</updated>
+    </task>
+    <task id="LOCAL-00075" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740150755111</created>
+      <option name="number" value="00075" />
+      <option name="presentableId" value="LOCAL-00075" />
+      <option name="project" value="LOCAL" />
+      <updated>1740150755111</updated>
+    </task>
+    <task id="LOCAL-00076" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740194006078</created>
+      <option name="number" value="00076" />
+      <option name="presentableId" value="LOCAL-00076" />
+      <option name="project" value="LOCAL" />
+      <updated>1740194006078</updated>
+    </task>
+    <task id="LOCAL-00077" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740197126774</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1740197126775</updated>
+    </task>
+    <task id="LOCAL-00078" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740199182974</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1740199182974</updated>
+    </task>
+    <task id="LOCAL-00079" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740212314648</created>
+      <option name="number" value="00079" />
+      <option name="presentableId" value="LOCAL-00079" />
+      <option name="project" value="LOCAL" />
+      <updated>1740212314648</updated>
+    </task>
+    <task id="LOCAL-00080" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740232730197</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1740232730197</updated>
+    </task>
+    <task id="LOCAL-00081" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740380647095</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1740380647095</updated>
+    </task>
+    <task id="LOCAL-00082" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740744055713</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1740744055714</updated>
+    </task>
+    <task id="LOCAL-00083" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740799781888</created>
+      <option name="number" value="00083" />
+      <option name="presentableId" value="LOCAL-00083" />
+      <option name="project" value="LOCAL" />
+      <updated>1740799781889</updated>
+    </task>
+    <task id="LOCAL-00084" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740800254931</created>
+      <option name="number" value="00084" />
+      <option name="presentableId" value="LOCAL-00084" />
+      <option name="project" value="LOCAL" />
+      <updated>1740800254931</updated>
+    </task>
+    <task id="LOCAL-00085" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740800809994</created>
+      <option name="number" value="00085" />
+      <option name="presentableId" value="LOCAL-00085" />
+      <option name="project" value="LOCAL" />
+      <updated>1740800809994</updated>
+    </task>
+    <task id="LOCAL-00086" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1740916321544</created>
+      <option name="number" value="00086" />
+      <option name="presentableId" value="LOCAL-00086" />
+      <option name="project" value="LOCAL" />
+      <updated>1740916321545</updated>
+    </task>
+    <task id="LOCAL-00087" summary="终稿开始一版">
+      <option name="closed" value="true" />
+      <created>1741103839991</created>
+      <option name="number" value="00087" />
+      <option name="presentableId" value="LOCAL-00087" />
+      <option name="project" value="LOCAL" />
+      <updated>1741103839991</updated>
+    </task>
+    <task id="LOCAL-00088" summary="交叉验证">
+      <option name="closed" value="true" />
+      <created>1741400592239</created>
+      <option name="number" value="00088" />
+      <option name="presentableId" value="LOCAL-00088" />
+      <option name="project" value="LOCAL" />
+      <updated>1741400592239</updated>
+    </task>
+    <task id="LOCAL-00089" summary="消融实验">
+      <option name="closed" value="true" />
+      <created>1741528649506</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1741528649506</updated>
+    </task>
+    <task id="LOCAL-00090" summary="消融实验">
+      <option name="closed" value="true" />
+      <created>1741528954151</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1741528954151</updated>
+    </task>
+    <task id="LOCAL-00091" summary="消融实验">
+      <option name="closed" value="true" />
+      <created>1741593463585</created>
+      <option name="number" value="00091" />
+      <option name="presentableId" value="LOCAL-00091" />
+      <option name="project" value="LOCAL" />
+      <updated>1741593463585</updated>
+    </task>
+    <task id="LOCAL-00092" summary="消融实验">
+      <option name="closed" value="true" />
+      <created>1741593510292</created>
+      <option name="number" value="00092" />
+      <option name="presentableId" value="LOCAL-00092" />
+      <option name="project" value="LOCAL" />
+      <updated>1741593510292</updated>
+    </task>
+    <task id="LOCAL-00093" summary="灵敏度分析">
+      <option name="closed" value="true" />
+      <created>1741661738800</created>
+      <option name="number" value="00093" />
+      <option name="presentableId" value="LOCAL-00093" />
+      <option name="project" value="LOCAL" />
+      <updated>1741661738800</updated>
+    </task>
+    <task id="LOCAL-00094" summary="终版">
+      <option name="closed" value="true" />
+      <created>1742224252159</created>
+      <option name="number" value="00094" />
+      <option name="presentableId" value="LOCAL-00094" />
+      <option name="project" value="LOCAL" />
+      <updated>1742224252159</updated>
+    </task>
+    <task id="LOCAL-00095" summary="终版">
+      <option name="closed" value="true" />
+      <created>1750170697743</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1750170697743</updated>
+    </task>
+    <task id="LOCAL-00096" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1756729275393</created>
+      <option name="number" value="00096" />
+      <option name="presentableId" value="LOCAL-00096" />
+      <option name="project" value="LOCAL" />
+      <updated>1756729275393</updated>
+    </task>
+    <task id="LOCAL-00097" summary="first commit">
+      <option name="closed" value="true" />
+      <created>1756729960311</created>
+      <option name="number" value="00097" />
+      <option name="presentableId" value="LOCAL-00097" />
+      <option name="project" value="LOCAL" />
+      <updated>1756729960311</updated>
+    </task>
+    <option name="localTasksCounter" value="98" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="123" />
+    <MESSAGE value="12.12" />
+    <MESSAGE value="12.23" />
+    <MESSAGE value="12.29" />
+    <MESSAGE value="终稿开始二版" />
+    <MESSAGE value="终稿开始一版" />
+    <MESSAGE value="交叉验证" />
+    <MESSAGE value="消融实验" />
+    <MESSAGE value="灵敏度分析" />
+    <MESSAGE value="终版" />
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="jupyter-line">
+          <url>notebook:///Users/potter/PycharmProjects/FedPRONo/FedLSR.ipynb</url>
+          <line>85</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/middleware/middleDisPFL.py</url>
+          <line>239</line>
+          <option name="timeStamp" value="40" />
+        </line-breakpoint>
+        <line-breakpoint suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/generate_cifar10.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="49" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/generate_ISIC.py</url>
+          <line>162</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/generate_ISIC.py</url>
+          <line>96</line>
+          <option name="timeStamp" value="66" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/test.py</url>
+          <line>1</line>
+          <option name="timeStamp" value="76" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/data/utils/dataset_utils.py</url>
+          <line>135</line>
+          <option name="timeStamp" value="105" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/clients/clientDitto.py</url>
+          <line>132</line>
+          <option name="timeStamp" value="107" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/clients/clientforget.py</url>
+          <line>64</line>
+          <option name="timeStamp" value="115" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/main.py</url>
+          <line>114</line>
+          <option name="timeStamp" value="116" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/clients/clientTR.py</url>
+          <line>156</line>
+          <option name="timeStamp" value="124" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/model/models.py</url>
+          <line>151</line>
+          <option name="timeStamp" value="130" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/core/flimplement/clients/clientDisPFL.py</url>
+          <line>77</line>
+          <option name="timeStamp" value="134" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_Cifar10.coverage" NAME="generate_Cifar10 Coverage Results" MODIFIED="1752115357022" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_fmnist.coverage" NAME="generate_fmnist Coverage Results" MODIFIED="1752987006463" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$data_utils.coverage" NAME="data_utils Coverage Results" MODIFIED="1732079265044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/utils" />
+    <SUITE FILE_PATH="coverage/FedPRONo$test_logging.coverage" NAME="test_logging Coverage Results" MODIFIED="1734315744309" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_cifar10N.coverage" NAME="generate_cifar10N Coverage Results" MODIFIED="1752388507502" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$clientproxy.coverage" NAME="clientproxy Coverage Results" MODIFIED="1732079127694" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/core/flimplement/clients" />
+    <SUITE FILE_PATH="coverage/FedPRONo$plot.coverage" NAME="plot Coverage Results" MODIFIED="1736129898669" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$" />
+    <SUITE FILE_PATH="coverage/FedPRONo$lsr.coverage" NAME="lsr Coverage Results" MODIFIED="1732073844958" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_cifar100.coverage" NAME="generate_cifar100 Coverage Results" MODIFIED="1739688415270" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_ISIC.coverage" NAME="generate_ISIC Coverage Results" MODIFIED="1740380027380" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$generate_har.coverage" NAME="generate_har Coverage Results" MODIFIED="1750574914932" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$main.coverage" NAME="main Coverage Results" MODIFIED="1755868670347" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedPRONo$test.coverage" NAME="test Coverage Results" MODIFIED="1740054387402" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/data" />
+    <SUITE FILE_PATH="coverage/FedPRONo$sim.coverage" NAME="sim Coverage Results" MODIFIED="1751553354292" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/FedPRONo$.coverage" NAME=" Coverage Results" MODIFIED="1734313300195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+</project>
