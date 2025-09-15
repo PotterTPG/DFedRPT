@@ -13,8 +13,7 @@ from flimplement.middleware.FedAvg import FedAvg
 from flimplement.middleware.middleAvgPush import AvgPush
 from flimplement.middleware.middleDFedAvg import DFedAvg
 from flimplement.middleware.middleDitto import Ditto
-from flimplement.middleware.middleTR import MiddleTR
-from flimplement.middleware.middleforget import Middleforget
+from flimplement.middleware.middleRPT import middleRPT
 
 from flimplement.model.models import *
 from flimplement.model.resnet import resnet18
@@ -112,7 +111,7 @@ def run(args):
             args.model = DisModelTrainer(args.model, args.dataset, args.erk_power_scale, args.device)
             server = DFedDisPFL(args, i)
         elif args.algorithm == "FedProNo":
-            server = MiddleTR(args, i)
+            server = middleRPT(args, i)
         elif args.algorithm == "DFedAvg":
             server = DFedAvg(args, i)
         elif args.algorithm == "AvgPush":

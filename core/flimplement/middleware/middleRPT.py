@@ -4,17 +4,17 @@ import numpy as np
 from sklearn.mixture import GaussianMixture
 from sklearn.preprocessing import StandardScaler
 
-from flimplement.clients.clientTR import ClientTR
+from flimplement.clients.clientRPT import clientRPT
 from flimplement.middleware.middlebase import Middle
 
 logger = logging.getLogger(__name__)
 
 
-class MiddleTR(Middle):
+class middleRPT(Middle):
     def __init__(self, args, times):
         super().__init__(args, times)
         self.args = args
-        self.set_clients(ClientTR)
+        self.set_clients(clientRPT)
         logging.info(f"\nJoin ratio / total clients: {self.join_ratio} / {self.num_clients}")
         logging.info("Finished creating server and clients.")
         self.Budget = []
