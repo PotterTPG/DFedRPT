@@ -9,11 +9,11 @@ DFedRPT implements multiple state-of-the-art federated learning algorithms inclu
 ## Supported Algorithms
 
 - **FedAvg**: Standard Federated Averaging
-- **DisPFL**: Distributed Personalized Federated Learning  
+- **DisPFL**: Personalized Federated Learning via Decentralized Sparse Training
 - **ProxyFL**: Proxy-based Federated Learning
 - **Ditto**: Federated Learning with Personalization
-- **DFedRPT**: Federated Learning with Proximal Regularization
-- **DFedAvg**: Dynamic Federated Averaging
+- **DFedRPT**: Our method
+- **DFedAvg**: Decentralized Federated Averaging
 - **AvgPush**: Average Push Algorithm
 
 ## Supported Datasets
